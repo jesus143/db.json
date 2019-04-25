@@ -1,0 +1,112 @@
+[
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '6433.644', 
+            'change'      => '55.0%', 
+            'last_price'  => '7.43335', 
+            'hr_high'     => '7.5566', 
+            'hr_low'      => '1.8866', 
+            'spread'      => '6.5%', 
+            'added'       => 'Feb 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '4432.345', 
+            'change'      => '45.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Oct 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '2333.454', 
+            'change'      => '62.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Feb 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '5564.097', 
+            'change'      => '24.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'May 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '4321.097', 
+            'change'      => '12.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Nov 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '8975.212', 
+            'change'      => '63.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Jan 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '8644.432', 
+            'change'      => '74.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Aug 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '5564.765', 
+            'change'      => '64.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Jul 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '6533.674', 
+            'change'      => '12.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Jun 28 2018'
+           ],
+           [
+            'market' => 'USD-BTC', 
+            'currency'    => 'Bitcoin', 
+            'volume'      => '3222.34', 
+            'change'      => '58.0%', 
+            'last_price'  => '4.21254', 
+            'hr_high'     => '2.002', 
+            'hr_low'      => '1.5255', 
+            'spread'      => '0.5%', 
+            'added'       => 'Mar 28 2018'
+           ]
+        ]
